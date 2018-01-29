@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/senpure-cloud.iml" filepath="$PROJECT_DIR$/senpure-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/senpure-eureka-client/senpure-eureka-client.iml" filepath="$PROJECT_DIR$/senpure-eureka-client/senpure-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/senpure-eureka-server/senpure-eureka-server.iml" filepath="$PROJECT_DIR$/senpure-eureka-server/senpure-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/senpure-feign/senpure-feign.iml" filepath="$PROJECT_DIR$/senpure-feign/senpure-feign.iml" />
+    </modules>
+  </component>
+</project>
